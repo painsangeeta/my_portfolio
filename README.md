@@ -19,7 +19,8 @@ maximum duration, are different.
 * Python library used: numpy, pandas, seaborn, matplotlib
 
 
-![](https://github.com/painsangeeta/my_portfolio/blob/main/images/Screenshot%20(539).png)  ![](https://github.com/painsangeeta/my_portfolio/blob/main/images/Screenshot%20(538).png)
+![](https://github.com/painsangeeta/my_portfolio/blob/main/images/Screenshot%20(539).png)  
+![](https://github.com/painsangeeta/my_portfolio/blob/main/images/Screenshot%20(538).png)
 
 
 
