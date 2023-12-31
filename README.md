@@ -17,3 +17,8 @@ instance, the day on which I listened to maximum number of songs and the day on 
 maximum duration, are different.
 * I got the overall view of my music listening data and presented it with various charts to visualize it.
 * Python library used: numpy, pandas, seaborn, matplotlib
+
+
+![](https://github.com/painsangeeta/my_portfolio/blob/main/images/Screenshot%20(539).png)
+
+![](
